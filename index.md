@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# Reti Yulvenia
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I'am a students from Indonesia.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+My University is Universitas Islam Negeri Sultan Syarif Kasim Riau.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+I like university and especially my faculty.
