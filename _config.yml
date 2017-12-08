@@ -1,5 +1,5 @@
 # Site
-title: Halve
+title: My Github
 description: Stylish, Two-Column Jekyll Theme
 url: https://taylantatli.github.io/Halve
 logo: halve.png                                       # Site logo
@@ -31,9 +31,9 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
+twitter:            RetiYulvenia
 #facebook:           username
-github:             username
+github:             retiyulvenia
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
